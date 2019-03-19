@@ -1,0 +1,45 @@
+/*
+Gold : #D6Ad68 | Charcoal : #122620 | 
+Cream : #F4EBD0 | Tan : #B68D40
+*/
+
+#lines{
+    padding: 0;
+    margin: 0;
+  }
+  .navbar {
+    background-color: #02798b;
+    color: white;
+    padding: 5px;
+  }
+  #link {
+    display: inline;
+    padding: 5px;
+  }
+  #link:hover {
+    background-color: white;
+    color: #02798b;
+    cursor: pointer;
+  }
+  #logout {
+    color: white;
+    text-decoration: none;
+  }
+  #logout:hover {
+    background-color: white;
+    color: #02798b;
+    cursor: pointer;
+  }
+  
+  .links {
+    text-align: right;
+  }
+  .details {
+    background-color: #d195bd;
+    padding: 20px;
+  }
+  #img {
+    border-radius: 50px;
+    box-shadow: 5px 5px 15px black;
+  }
+  

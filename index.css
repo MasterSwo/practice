@@ -1,0 +1,56 @@
+.first { 
+    color:red; 
+    font-size:100px;
+    border: 8px red;
+    margin: 50px;
+    text-align: center;
+    padding: 10px;
+    background-color: aqua
+}
+
+/*style for second heading*/
+#second {
+    color: grey;
+    font-size: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#link { 
+    text-decoration: none;
+    color: pink
+}
+#navbar-title {
+    margin: 10px;
+  }
+  .login-block {
+    text-align: center;
+  }
+  .login-details {
+    background-color: #8fb7c9;
+    padding: 20px;
+    margin: 80px;
+  }
+  #username {
+    width: 50%;
+    margin: 20px;
+  }
+  #password {
+    width: 50%;
+    margin: 20px;
+  }
+  #login {
+    width: 20%;
+    margin: 20px;
+    padding: 5px;
+    background-color: #02798b;
+    color: white;
+    box-shadow: 5px 5px 15px black;
+    border: none;
+    font-weight: 800;
+    font-size: 10px;
+  }
+  #forgot-password,
+  #create-account {
+    text-decoration: none;
+    font-size: 10px;
+  }
